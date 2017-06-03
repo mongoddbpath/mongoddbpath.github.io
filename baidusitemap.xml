@@ -3,6 +3,43 @@
 
 
     
+  <url>
+    <loc>http://yoursite.com/2017/06/03/int/</loc>
+    <lastmod>2017-06-03T06:44:39.096Z</lastmod>
+    <data>
+        <display>
+        <title>int</title>
+        <pubTime>2017-06-03T06:43:56.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/03/hello-world/</loc>
+    <lastmod>2017-06-03T06:38:28.011Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#0099ff>Hexo的基础使用</font></title>
+        <pubTime>2017-06-02T17:11:34.966Z</pubTime>
+        
+        <tag>Nodejs</tag>
+         
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Nodejs" url="http://yoursite.com/categories/Nodejs/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://yoursite.com/2017/06/03/war-md/</loc>
@@ -18,28 +55,6 @@
            
              
               <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/06/03/hello-world/</loc>
-    <lastmod>2017-06-03T03:11:03.953Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#0099ff>Hexo的基础使用</font></title>
-        <pubTime>2017-06-02T17:11:34.966Z</pubTime>
-        
-        <tag>Nodejs</tag>
-         
-        <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="Nodejs" url="http://yoursite.com/categories/Nodejs/"/>
           
         </display>
     </data>
