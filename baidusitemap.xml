@@ -4,6 +4,20 @@
 
     
   <url>
+    <loc>http://yoursite.com/read/index.html</loc>
+    <lastmod>2017-06-03T00:33:12.714Z</lastmod>
+    <data>
+        <display>
+        <title><center>《也谈中国出兵朝鲜》</center></title>
+        <pubTime>2017-06-02T22:20:54.000Z</pubTime>
+        
+         
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/06/03/hello-world/</loc>
     <lastmod>2017-06-03T00:00:25.115Z</lastmod>
     <data>
@@ -20,7 +34,6 @@
     </data>
     </url>
 
-    
     
     
 </urlset>
