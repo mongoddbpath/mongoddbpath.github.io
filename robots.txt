@@ -1,12 +1,13 @@
-# hexo robots.txt
-User-agent: * Allow: /
+User-agent: *
+Allow: /
 Allow: /archives/
+Allow: /categories/
+Allow: /tags/
 Disallow: /vendors/
 Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-
-Sitemap: http://lancelot_lewis.coding.me/sitemap.xml
-Sitemap: http://lancelot_lewis.coding.me/baidusitemap.xml
+Sitemap: https://Xxx.github.io/sitemap.xml
+Sitemap: https://Xxx.github.io/baidusitemap.xml # 目前该配置未生效，push 生效了。
