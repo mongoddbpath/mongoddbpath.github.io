@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/03/hello-world/</loc>
+    <lastmod>2017-06-03T00:00:25.115Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo的基础使用</title>
+        <pubTime>2017-06-02T17:11:34.966Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Nodejs" url="http://yoursite.com/categories/Nodejs/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>
