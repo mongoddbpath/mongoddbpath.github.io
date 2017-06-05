@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
-    <lastmod>2017-06-05T05:53:40.773Z</lastmod>
+    <lastmod>2017-06-05T05:57:27.986Z</lastmod>
     <data>
         <display>
         <title><font color=#0099ff>Blog  |  我【置顶博客】</font></title>
@@ -17,6 +17,28 @@
            
              
               <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/03/hello-world/</loc>
+    <lastmod>2017-06-05T05:57:22.473Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#0099ff>Hexo的基础使用</font></title>
+        <pubTime>2017-06-02T17:11:34.966Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Nodejs</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
           
         </display>
     </data>
@@ -37,28 +59,6 @@
            
              
               <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/06/03/hello-world/</loc>
-    <lastmod>2017-06-05T02:51:08.853Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#0099ff>Hexo的基础使用</font></title>
-        <pubTime>2017-06-02T17:11:34.966Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>Nodejs</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端" url="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
           
         </display>
     </data>
