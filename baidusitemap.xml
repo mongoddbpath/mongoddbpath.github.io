@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
-    <lastmod>2017-06-05T02:47:43.086Z</lastmod>
+    <lastmod>2017-06-05T02:52:11.623Z</lastmod>
     <data>
         <display>
         <title><font color=#0099ff>Blog && 我【置顶博客】</font></title>
@@ -23,11 +23,9 @@
     </url>
 
     
-    
-    
   <url>
     <loc>http://yoursite.com/2017/06/03/hello-world/</loc>
-    <lastmod>2017-06-04T12:47:11.217Z</lastmod>
+    <lastmod>2017-06-05T02:51:08.853Z</lastmod>
     <data>
         <display>
         <title><font color=#0099ff>Hexo的基础使用</font></title>
@@ -49,7 +47,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/06/03/war-md/</loc>
-    <lastmod>2017-06-04T12:32:40.786Z</lastmod>
+    <lastmod>2017-06-05T02:50:49.887Z</lastmod>
     <data>
         <display>
         <title><font color=#0099ff>论中国出兵朝鲜</font></title>
@@ -66,4 +64,6 @@
     </data>
     </url>
 
+    
+    
 </urlset>
