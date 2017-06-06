@@ -4,30 +4,8 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/06/06/wwdc2017/</loc>
-    <lastmod>2017-06-06T07:59:02.907Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#FFB270><strong>聊聊WWDC2017</strong></font></title>
-        <pubTime>2017-06-06T07:02:49.000Z</pubTime>
-        
-        <tag>wwdc</tag>
-         
-        <tag>最年轻的wwdc参会者</tag>
-         
-         
-           
-             
-              <breadCrumb title="克隆" url="http://yoursite.com/categories/%E5%85%8B%E9%9A%86/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
-    <lastmod>2017-06-06T07:58:53.048Z</lastmod>
+    <lastmod>2017-06-06T08:01:33.609Z</lastmod>
     <data>
         <display>
         <title><font color=#0099ff>Blog  |  我【置顶博文】</font></title>
@@ -39,6 +17,28 @@
            
              
               <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/06/wwdc2017/</loc>
+    <lastmod>2017-06-06T08:01:23.451Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#9896F1><strong>聊聊WWDC2017</strong></font></title>
+        <pubTime>2017-06-06T07:02:49.000Z</pubTime>
+        
+        <tag>wwdc</tag>
+         
+        <tag>最年轻的wwdc参会者</tag>
+         
+         
+           
+             
+              <breadCrumb title="克隆" url="http://yoursite.com/categories/%E5%85%8B%E9%9A%86/"/>
           
         </display>
     </data>
