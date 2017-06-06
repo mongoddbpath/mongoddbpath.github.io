@@ -4,14 +4,14 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/06/03/war-md/</loc>
-    <lastmod>2017-06-06T06:46:53.058Z</lastmod>
+    <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
+    <lastmod>2017-06-06T06:52:53.067Z</lastmod>
     <data>
         <display>
-        <title><font color=#0099ff>论中国出兵朝鲜</font></title>
-        <pubTime>2017-06-03T01:30:40.000Z</pubTime>
+        <title><font color=#0099ff>Blog  |  我【置顶博文】</font></title>
+        <pubTime>2096-06-04T12:56:10.000Z</pubTime>
         
-        <tag>读书笔记</tag>
+        <tag>置顶博文</tag>
          
          
            
@@ -24,8 +24,30 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/06/05/desktop/</loc>
+    <lastmod>2017-06-06T06:52:50.625Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#FCA180>一个程序员的电脑桌面</font></title>
+        <pubTime>2017-06-05T15:22:26.000Z</pubTime>
+        
+        <tag>瞎折腾</tag>
+         
+        <tag>精简主义</tag>
+         
+         
+           
+             
+              <breadCrumb title="私房菜" url="http://yoursite.com/categories/%E7%A7%81%E6%88%BF%E8%8F%9C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/06/03/hello-world/</loc>
-    <lastmod>2017-06-06T06:46:22.707Z</lastmod>
+    <lastmod>2017-06-06T06:52:46.441Z</lastmod>
     <data>
         <display>
         <title><font color=#0099ff>Hexo的基础使用</font></title>
@@ -46,41 +68,19 @@
 
     
   <url>
-    <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
-    <lastmod>2017-06-06T06:46:14.518Z</lastmod>
+    <loc>http://yoursite.com/2017/06/03/war-md/</loc>
+    <lastmod>2017-06-06T06:52:42.270Z</lastmod>
     <data>
         <display>
-        <title><font color=#0099ff>Blog  |  我【置顶博文】</font></title>
-        <pubTime>2096-06-04T12:56:10.000Z</pubTime>
+        <title><font color=#0099ff>论中国出兵朝鲜</font></title>
+        <pubTime>2017-06-03T01:30:40.000Z</pubTime>
         
-        <tag>置顶博文</tag>
+        <tag>读书笔记</tag>
          
          
            
              
               <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/06/05/desktop/</loc>
-    <lastmod>2017-06-06T06:19:51.577Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#FCA180>一个程序员的电脑桌面</font></title>
-        <pubTime>2017-06-05T15:22:26.000Z</pubTime>
-        
-        <tag>瞎折腾</tag>
-         
-        <tag>精简主义</tag>
-         
-         
-           
-             
-              <breadCrumb title="私房菜" url="http://yoursite.com/categories/%E7%A7%81%E6%88%BF%E8%8F%9C/"/>
           
         </display>
     </data>
