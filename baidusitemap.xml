@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/06/09/check/</loc>
+    <lastmod>2017-06-09T09:17:11.162Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#0099ff><strong>Hexo的Bug修复</strong></font></title>
+        <pubTime>2017-06-09T08:46:55.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Nodejs</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
     <lastmod>2017-06-09T05:10:33.266Z</lastmod>
     <data>
