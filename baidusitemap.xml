@@ -4,6 +4,90 @@
 
     
   <url>
+    <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
+    <lastmod>2017-06-09T14:17:25.488Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#0099ff><strong>Blog  |  我【置顶博文】</strong></font></title>
+        <pubTime>2096-06-04T12:56:10.000Z</pubTime>
+        
+        <tag>置顶博文</tag>
+         
+         
+           
+             
+              <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/06/wwdc2017/</loc>
+    <lastmod>2017-06-09T14:17:07.743Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#FFB270><strong>聊聊WWDC 17那仅仅 10 岁的开发者</strong></font></title>
+        <pubTime>2017-06-06T07:02:49.000Z</pubTime>
+        
+        <tag>wwdc</tag>
+         
+        <tag>最年轻的wwdc 17参会者</tag>
+         
+         
+           
+             
+              <breadCrumb title="克隆" url="http://yoursite.com/categories/%E5%85%8B%E9%9A%86/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/03/war-md/</loc>
+    <lastmod>2017-06-09T14:16:00.081Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#8C7676><strong>论中国出兵朝鲜</strong></font></title>
+        <pubTime>2017-06-03T01:30:40.000Z</pubTime>
+        
+        <tag>读书笔记</tag>
+         
+         
+           
+             
+              <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/07/travel/</loc>
+    <lastmod>2017-06-09T14:12:30.148Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#FF6699><strong>世界辣么大我想去看看</strong></font></title>
+        <pubTime>2017-06-07T14:15:56.000Z</pubTime>
+        
+        <tag>一个人的旅行</tag>
+         
+        <tag>世界辣么大</tag>
+         
+         
+           
+             
+              <breadCrumb title="经验" url="http://yoursite.com/categories/%E7%BB%8F%E9%AA%8C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/06/09/check/</loc>
     <lastmod>2017-06-09T14:07:14.215Z</lastmod>
     <data>
@@ -26,48 +110,6 @@
 
     
   <url>
-    <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
-    <lastmod>2017-06-09T05:10:33.266Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#0099ff><strong>Blog  |  我【置顶博文】</strong></font></title>
-        <pubTime>2096-06-04T12:56:10.000Z</pubTime>
-        
-        <tag>置顶博文</tag>
-         
-         
-           
-             
-              <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/06/07/travel/</loc>
-    <lastmod>2017-06-08T15:02:59.242Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#FF6699><strong>世界辣么大我想去看看</strong></font></title>
-        <pubTime>2017-06-07T14:15:56.000Z</pubTime>
-        
-        <tag>一个人的旅行</tag>
-         
-        <tag>世界辣么大</tag>
-         
-         
-           
-             
-              <breadCrumb title="经验" url="http://yoursite.com/categories/%E7%BB%8F%E9%AA%8C/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/2017/06/08/xiaomi/</loc>
     <lastmod>2017-06-08T13:42:50.551Z</lastmod>
     <data>
@@ -76,48 +118,6 @@
         <pubTime>2017-06-08T13:12:38.000Z</pubTime>
         
         <tag>小米</tag>
-         
-         
-           
-             
-              <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/06/06/wwdc2017/</loc>
-    <lastmod>2017-06-08T02:54:51.423Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#9896F1><strong>聊聊WWDC 17那仅仅 10 岁的开发者</strong></font></title>
-        <pubTime>2017-06-06T07:02:49.000Z</pubTime>
-        
-        <tag>wwdc</tag>
-         
-        <tag>最年轻的wwdc 17参会者</tag>
-         
-         
-           
-             
-              <breadCrumb title="克隆" url="http://yoursite.com/categories/%E5%85%8B%E9%9A%86/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/06/03/war-md/</loc>
-    <lastmod>2017-06-08T02:54:28.781Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#0099ff><strong>论中国出兵朝鲜</strong></font></title>
-        <pubTime>2017-06-03T01:30:40.000Z</pubTime>
-        
-        <tag>读书笔记</tag>
          
          
            
