@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
+    <lastmod>2017-06-09T05:10:33.266Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#0099ff><strong>Blog  |  我【置顶博文】</strong></font></title>
+        <pubTime>2096-06-04T12:56:10.000Z</pubTime>
+        
+        <tag>置顶博文</tag>
+         
+         
+           
+             
+              <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/06/07/travel/</loc>
     <lastmod>2017-06-08T15:02:59.242Z</lastmod>
     <data>
@@ -34,26 +54,6 @@
         <pubTime>2017-06-08T13:12:38.000Z</pubTime>
         
         <tag>小米</tag>
-         
-         
-           
-             
-              <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
-    <lastmod>2017-06-08T07:08:18.288Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#0099ff><strong>Blog  |  我【置顶博文】</strong></font></title>
-        <pubTime>2096-06-04T12:56:10.000Z</pubTime>
-        
-        <tag>置顶博文</tag>
          
          
            
