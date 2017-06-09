@@ -105,7 +105,7 @@
 <meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/d1.jpg">
 <meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/d2.jpg">
 <meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/ok.jpg">
-<meta property="og:updated_time" content="2017-06-09T14:03:35.708Z">
+<meta property="og:updated_time" content="2017-06-09T14:07:14.215Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="&lt;font color=#0099ff&gt;&lt;strong&gt;使用Hexo遇到的Bug以及修复&lt;&#x2F;strong&gt;&lt;&#x2F;font&gt;">
 <meta name="twitter:description" content="Local hexo not found in的解决方法…">
@@ -366,7 +366,7 @@
       
         <p><img src="http://or30iz1wj.bkt.clouddn.com/563.jpg" alt=""></p>
 <p><font color="#F03861"><center><strong>Local hexo not found in的解决方法…</strong></center></font><br><a id="more"></a></p>
-<p><img src="http://or30iz1wj.bkt.clouddn.com/dbug.jpg" alt=""><br>&emsp;&emsp;小编遇到这个问题两次了，第一次解决Bug花了蛮长时间去修复的，第二次就很快，这是个经典错误，就是当你用npm下载或者卸载一些插件或者包的时候，原有的node_modules里面就会有一定可能性丢失一些原有的包，一个框架是依赖于包与包的之间的关系的，所以就出现了这样的错误，<font color="#FA5B75"><strong>Local即当前目录的Hexo指令找不到失效了</strong></font>…<br>&emsp;&emsp;这时候不管重新下载hexo或者是安装不同的Nodejs的版本都是没用的，解决的方法应该是:<br>&emsp;&emsp;建立一个新的文件夹Hexo-CheckOut，执行hexo init初始化命令，找到新建的文件夹Hexo-CheckOut下的node_modules文件夹，把命令行中提示的缺少的包复制到原来博客的node_modules文件夹下即可…</p>
+<p><img src="http://or30iz1wj.bkt.clouddn.com/dbug.jpg" alt=""><br>&emsp;&emsp;小编遇到这个问题两次了，第一次解决Bug花了蛮长时间去修复的，第二次就很快，这是个经典错误，就是当你用npm下载或者卸载一些插件或者包的时候，原有的node_modules里面就会有一定可能性丢失一些原有的包，一个框架是依赖于包与包的之间的关系的，所以就出现了这样的错误，<font color="#FA5B75"><strong>Local即当前目录的Hexo指令找不到失效了</strong></font>…<br>&emsp;&emsp;这时候不管重新下载hexo或者是安装不同的Nodejs的版本都是没用的，解决的方法是:<br>&emsp;&emsp;建立一个新的文件夹Hexo-CheckOut，执行hexo init初始化命令，找到新建的文件夹Hexo-CheckOut下的node_modules文件夹，把命令行中提示的缺少的包复制到原来博客的node_modules文件夹下即可…</p>
 <blockquote>
 <p>cd ..<br>mkdir Hexo-CheckOut<br>hexo init</p>
 </blockquote>
