@@ -4,8 +4,28 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/06/03/war-md/</loc>
+    <lastmod>2017-06-09T14:33:02.759Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#0099ff><strong>论中国出兵朝鲜</strong></font></title>
+        <pubTime>2017-06-03T01:30:40.000Z</pubTime>
+        
+        <tag>读书笔记</tag>
+         
+         
+           
+             
+              <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/06/08/xiaomi/</loc>
-    <lastmod>2017-06-09T14:26:42.959Z</lastmod>
+    <lastmod>2017-06-09T14:32:57.428Z</lastmod>
     <data>
         <display>
         <title><font color=#0099ff><strong>今天来聊聊小米</strong></font></title>
@@ -25,7 +45,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/06/06/wwdc2017/</loc>
-    <lastmod>2017-06-09T14:26:16.623Z</lastmod>
+    <lastmod>2017-06-09T14:32:48.314Z</lastmod>
     <data>
         <display>
         <title><font color=#FFB270><strong>聊聊WWDC 17那仅仅 10 岁的开发者</strong></font></title>
@@ -47,7 +67,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/06/07/travel/</loc>
-    <lastmod>2017-06-09T14:25:12.583Z</lastmod>
+    <lastmod>2017-06-09T14:32:42.095Z</lastmod>
     <data>
         <display>
         <title><font color=#FF6699><strong>世界辣么大我想去看看</strong></font></title>
@@ -68,12 +88,12 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/06/03/hello-world/</loc>
-    <lastmod>2017-06-09T14:24:48.292Z</lastmod>
+    <loc>http://yoursite.com/2017/06/09/check/</loc>
+    <lastmod>2017-06-09T14:32:36.815Z</lastmod>
     <data>
         <display>
-        <title><font color=#F56262><strong>Hexo的基础使用</strong></font></title>
-        <pubTime>2017-06-02T17:11:34.966Z</pubTime>
+        <title><font color=#F56262><strong>使用Hexo遇到的Bug以及修复</strong></font></title>
+        <pubTime>2017-06-09T08:46:55.000Z</pubTime>
         
         <tag>Hexo</tag>
          
@@ -91,7 +111,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/06/05/desktop/</loc>
-    <lastmod>2017-06-09T14:24:21.515Z</lastmod>
+    <lastmod>2017-06-09T14:32:32.759Z</lastmod>
     <data>
         <display>
         <title><font color=#FCA180><strong>一个程序员的电脑桌面</strong></font></title>
@@ -112,12 +132,12 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/06/09/check/</loc>
-    <lastmod>2017-06-09T14:23:31.095Z</lastmod>
+    <loc>http://yoursite.com/2017/06/03/hello-world/</loc>
+    <lastmod>2017-06-09T14:32:29.312Z</lastmod>
     <data>
         <display>
-        <title><font color=#F56262><strong>使用Hexo遇到的Bug以及修复</strong></font></title>
-        <pubTime>2017-06-09T08:46:55.000Z</pubTime>
+        <title><font color=#F56262><strong>Hexo的基础使用</strong></font></title>
+        <pubTime>2017-06-02T17:11:34.966Z</pubTime>
         
         <tag>Hexo</tag>
          
@@ -142,26 +162,6 @@
         <pubTime>2096-06-04T12:56:10.000Z</pubTime>
         
         <tag>置顶博文</tag>
-         
-         
-           
-             
-              <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/06/03/war-md/</loc>
-    <lastmod>2017-06-09T14:21:57.369Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#0099ff><strong>论中国出兵朝鲜</strong></font></title>
-        <pubTime>2017-06-03T01:30:40.000Z</pubTime>
-        
-        <tag>读书笔记</tag>
          
          
            
