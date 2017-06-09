@@ -93,22 +93,22 @@
 
 
 
-<meta name="description" content="谈谈使用Hexo-Blog时碰到的Bug以及修复.">
+<meta name="description" content="谈谈使用Hexo-Blog时碰到的Bug以及修复…">
 <meta name="keywords" content="Hexo,Nodejs">
 <meta property="og:type" content="article">
 <meta property="og:title" content="&lt;font color=#0099ff&gt;&lt;strong&gt;Hexo的Bug修复&lt;&#x2F;strong&gt;&lt;&#x2F;font&gt;">
 <meta property="og:url" content="http://yoursite.com/2017/06/09/check/index.html">
 <meta property="og:site_name" content="小安de博客">
-<meta property="og:description" content="谈谈使用Hexo-Blog时碰到的Bug以及修复.">
+<meta property="og:description" content="谈谈使用Hexo-Blog时碰到的Bug以及修复…">
 <meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/563.jpg">
 <meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/dbug.jpg">
 <meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/d1.jpg">
 <meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/d2.jpg">
 <meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/ok.jpg">
-<meta property="og:updated_time" content="2017-06-09T09:17:11.162Z">
+<meta property="og:updated_time" content="2017-06-09T09:24:49.508Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="&lt;font color=#0099ff&gt;&lt;strong&gt;Hexo的Bug修复&lt;&#x2F;strong&gt;&lt;&#x2F;font&gt;">
-<meta name="twitter:description" content="谈谈使用Hexo-Blog时碰到的Bug以及修复.">
+<meta name="twitter:description" content="谈谈使用Hexo-Blog时碰到的Bug以及修复…">
 <meta name="twitter:image" content="http://or30iz1wj.bkt.clouddn.com/563.jpg">
 
 
@@ -365,10 +365,10 @@
 
       
         <p><img src="http://or30iz1wj.bkt.clouddn.com/563.jpg" alt=""></p>
-<p><font color="#F03861"><center><strong>谈谈使用Hexo-Blog时碰到的Bug以及修复.</strong></center></font><br><a id="more"></a></p>
-<p><img src="http://or30iz1wj.bkt.clouddn.com/dbug.jpg" alt=""><br>&emsp;&emsp;小编遇到这个问题两次了，第一次解决Bug花了蛮长时间去修复的，第二次就很快，这是个经典错误，就是当你用npm下载一些插件或者包的时候，原有的Node_modules里面就会有一定可能丢失一些原有的包，一个框架是依赖于包与包之间的关系，所以就出现了经典的错误，<font color="#FA5B75"><strong>Local即当前目录的Hexo指令找不到失效了</strong></font>…<br>&emsp;&emsp;这时候不管重新下载或者是安装不同的Nodejs的版本都是没用的，解决的方法应该是:<br>&emsp;&emsp;建立一个新的文件夹，执行hexo init初始化命令，找到新建的文件夹Hexo-CheckOut下的Node_modules文件夹，把命令行中提示的缺少的包复制到原来博客的Node_modules文件夹下，即可</p>
+<p><font color="#F03861"><center><strong>谈谈使用Hexo-Blog时碰到的Bug以及修复…</strong></center></font><br><a id="more"></a></p>
+<p><img src="http://or30iz1wj.bkt.clouddn.com/dbug.jpg" alt=""><br>&emsp;&emsp;小编遇到这个问题两次了，第一次解决Bug花了蛮长时间去修复的，第二次就很快，这是个经典错误，就是当你用npm下载或者卸载一些插件或者包的时候，原有的Node_modules里面就会有一定可能性丢失一些原有的包，一个框架是依赖于包与包的之间的关系的，所以就出现了这样的错误，<font color="#FA5B75"><strong>Local即当前目录的Hexo指令找不到失效了</strong></font>…<br>&emsp;&emsp;这时候不管重新下载hexo或者是安装不同的Nodejs的版本都是没用的，解决的方法应该是:<br>&emsp;&emsp;建立一个新的文件夹，执行hexo init初始化命令，找到新建的文件夹Hexo-CheckOut下的Node_modules文件夹，把命令行中提示的缺少的包复制到原来博客的Node_modules文件夹下即可…</p>
 <blockquote>
-<p>cd ..<br>mkdir Hexo-CheckOut<br>Hexo init</p>
+<p>cd ..<br>mkdir Hexo-CheckOut<br>hexo init</p>
 </blockquote>
 <p><img src="http://or30iz1wj.bkt.clouddn.com/d1.jpg" alt=""><br><img src="http://or30iz1wj.bkt.clouddn.com/d2.jpg" alt=""><br>&emsp;&emsp;于是乎，命令又能重新启动了~<br><img src="http://or30iz1wj.bkt.clouddn.com/ok.jpg" alt=""></p>
 
