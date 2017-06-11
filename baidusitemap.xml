@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/06/09/check/</loc>
+    <lastmod>2017-06-11T03:58:37.121Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#F56262><strong>使用Hexo遇到的Bug以及修复</strong></font></title>
+        <pubTime>2017-06-09T08:46:55.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Nodejs</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
     <lastmod>2017-06-10T12:04:40.029Z</lastmod>
     <data>
@@ -101,28 +123,6 @@
            
              
               <breadCrumb title="经验" url="http://yoursite.com/categories/%E7%BB%8F%E9%AA%8C/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/06/09/check/</loc>
-    <lastmod>2017-06-09T14:32:36.815Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#F56262><strong>使用Hexo遇到的Bug以及修复</strong></font></title>
-        <pubTime>2017-06-09T08:46:55.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>Nodejs</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端" url="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
           
         </display>
     </data>
