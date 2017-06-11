@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
+    <lastmod>2017-06-11T12:01:29.206Z</lastmod>
+    <data>
+        <display>
+        <title><font color=#0099ff><strong>Blog  |  我【置顶博文】</strong></font></title>
+        <pubTime>2096-06-04T12:56:10.000Z</pubTime>
+        
+        <tag>置顶博文</tag>
+         
+         
+           
+             
+              <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/06/09/check/</loc>
     <lastmod>2017-06-11T03:58:37.121Z</lastmod>
     <data>
@@ -19,26 +39,6 @@
            
              
               <breadCrumb title="前端" url="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2096/06/04/myBlog/</loc>
-    <lastmod>2017-06-10T12:04:40.029Z</lastmod>
-    <data>
-        <display>
-        <title><font color=#0099ff><strong>Blog  |  我【置顶博文】</strong></font></title>
-        <pubTime>2096-06-04T12:56:10.000Z</pubTime>
-        
-        <tag>置顶博文</tag>
-         
-         
-           
-             
-              <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
           
         </display>
     </data>
