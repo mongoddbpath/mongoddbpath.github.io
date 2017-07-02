@@ -1801,7 +1801,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c77103;
+  background: #ffffdb;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2982,5 +2982,5 @@ body {
   background-position: 50% 50%;
 }
 footer {
-  color: #eee;
+  color: #fd6378;
 }
