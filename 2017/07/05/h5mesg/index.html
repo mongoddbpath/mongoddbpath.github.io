@@ -75,7 +75,7 @@
 <link href="/css/main.css?v=5.1.1" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="Hexo,Nodejs," />
+  <meta name="keywords" content="Html5,语义化," />
 
 
 
@@ -91,23 +91,19 @@
 
 
 
-<meta name="description" content="Local hexo not found in的解决方法…">
-<meta name="keywords" content="Hexo,Nodejs">
+<meta name="description" content="今天来聊一下Html语义化…">
+<meta name="keywords" content="Html5,语义化">
 <meta property="og:type" content="article">
-<meta property="og:title" content="&lt;font color=#F56262&gt;&lt;strong&gt;使用Hexo遇到的Bug以及修复&lt;&#x2F;strong&gt;&lt;&#x2F;font&gt;">
-<meta property="og:url" content="http://yoursite.com/2017/06/09/check/index.html">
+<meta property="og:title" content="Html5语义化">
+<meta property="og:url" content="http://yoursite.com/2017/07/05/h5mesg/index.html">
 <meta property="og:site_name" content="小安de博客">
-<meta property="og:description" content="Local hexo not found in的解决方法…">
-<meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/563.jpg">
-<meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/dbug.jpg">
-<meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/d1.jpg">
-<meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/d2.jpg">
-<meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/ok.jpg">
-<meta property="og:updated_time" content="2017-07-02T09:53:04.923Z">
+<meta property="og:description" content="今天来聊一下Html语义化…">
+<meta property="og:image" content="http://or30iz1wj.bkt.clouddn.com/senmantic.jpg">
+<meta property="og:updated_time" content="2017-07-05T15:03:28.489Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="&lt;font color=#F56262&gt;&lt;strong&gt;使用Hexo遇到的Bug以及修复&lt;&#x2F;strong&gt;&lt;&#x2F;font&gt;">
-<meta name="twitter:description" content="Local hexo not found in的解决方法…">
-<meta name="twitter:image" content="http://or30iz1wj.bkt.clouddn.com/563.jpg">
+<meta name="twitter:title" content="Html5语义化">
+<meta name="twitter:description" content="今天来聊一下Html语义化…">
+<meta name="twitter:image" content="http://or30iz1wj.bkt.clouddn.com/senmantic.jpg">
 
 
 
@@ -135,7 +131,7 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/2017/06/09/check/"/>
+  <link rel="canonical" href="http://yoursite.com/2017/07/05/h5mesg/"/>
 
 
 
@@ -157,7 +153,7 @@
         border-left-color: #1E92FB;    /*左边框颜色*/
     }
 </style>
-  <title><font color=#F56262><strong>使用Hexo遇到的Bug以及修复</strong></font> | 小安de博客</title>
+  <title>Html5语义化 | 小安de博客</title>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
@@ -287,7 +283,7 @@
   
 
   <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2017/06/09/check/">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2017/07/05/h5mesg/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="梁安迪">
@@ -304,7 +300,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline"><font color=#F56262><strong>使用Hexo遇到的Bug以及修复</strong></font></h1>
+          <h1 class="post-title" itemprop="name headline">Html5语义化</h1>
         
 
         <div class="post-meta">
@@ -316,8 +312,8 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-06-09T16:46:55+08:00">
-                2017-06-09
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-07-05T21:37:43+08:00">
+                2017-07-05
               </time>
             
 
@@ -378,13 +374,9 @@
       
 
       
-        <p><img src="http://or30iz1wj.bkt.clouddn.com/563.jpg" alt=""></p>
-<p><font color="#F03861"><center><strong>Local hexo not found in的解决方法…</strong></center></font><br><a id="more"></a></p>
-<p><img src="http://or30iz1wj.bkt.clouddn.com/dbug.jpg" alt=""><br>&emsp;&emsp;小编遇到这个问题两次了，第一次解决Bug花了一些功夫去修复的，第二次就很快，这是个不常见错误，就是当你用npm下载或者卸载一些插件或者包的时候，原有的node_modules里面就会有一定可能性丢失一些原有的包，一个框架是依赖于包与包的之间的关系的，所以就出现了这样的错误，<font color="#FA5B75"><strong>Local即当前目录的Hexo指令找不到失效了</strong></font>…<br>&emsp;&emsp;这时候不管重新下载hexo或者是安装不同的Nodejs的版本都是没用的，解决的方法是:<br>&emsp;&emsp;建立一个新的文件夹Hexo-CheckOut，执行hexo init初始化命令，找到新建的文件夹Hexo-CheckOut下的node_modules文件夹，把命令行中提示的缺少的包复制到原来博客的node_modules文件夹下即可…</p>
-<blockquote>
-<p>cd ..<br>mkdir Hexo-CheckOut<br>hexo init</p>
-</blockquote>
-<p><img src="http://or30iz1wj.bkt.clouddn.com/d1.jpg" alt=""><br><img src="http://or30iz1wj.bkt.clouddn.com/d2.jpg" alt=""><br>&emsp;&emsp;于是乎，命令又能重新启动了~<br><img src="http://or30iz1wj.bkt.clouddn.com/ok.jpg" alt=""></p>
+        <p><img src="http://or30iz1wj.bkt.clouddn.com/senmantic.jpg" alt=""></p>
+<p><font color="#F03861"><center><strong>今天来聊一下Html语义化…</strong></center></font><br><a id="more"></a></p>
+<p>&emsp;&emsp;今天来温习一下Html语义化，Html是一个标签语言，承载着文档的内容，那什么是Html语义化呢，小编的理解是”让每个标签做他自己本分的事”，比如头部信息的<code>&lt;header&gt;</code>，导航的<code>&lt;nav&gt;</code>,以及尾部信息的<code>&lt;footer&gt;</code>,而不是什么都用div,span这些不具备语义化的元素来表示，虽然最后显示结果会是一样的，但是这却增加了浏览器解析的负担，也不利于其他程序员理解，更不利于SEO,总之一句话，Html的语义化的根本目的，是构建能让浏览器易懂，也能让其他程序员易懂的,让你的网页更好的被搜索引擎理解的代码<br>&emsp;&emsp;以下总结一下常用的Html的语义…<br>&emsp;&emsp;<code>&lt;body&gt;</code>标签，网页上显示的内容放在这里<br>&emsp;&emsp;<code>&lt;p&gt;</code>标签，添加段落<br>&emsp;&emsp;<code>&lt;title&gt;</code>标签，一个具有提示作用的属性，对于屏幕阅读器来说可以为用户朗读文本，所以正确的使用可以提升页面的访问性。<br>&emsp;&emsp;<code>&lt;header&gt;</code>标签，代表“网页”或“section”的页眉<br>&emsp;&emsp;<code>&lt;footer&gt;</code>标签，代表“网页”或“section”的页脚，通常含有该节的一些基本信息，譬如：作者，相关文档链接，版权资料<br>&emsp;&emsp;<code>&lt;nav&gt;</code>标签，代表页面的导航链接区域,用于定义页面的主要导航部分<br>&emsp;&emsp;<code>&lt;aside&gt;</code>标签，作为主要内容的附属信息部分<br>&emsp;&emsp;<code>&lt;article&gt;</code>标签，代表一个在文档，页面或者网站中自成一体的内容<br>&emsp;&emsp;<code>&lt;hx&gt;</code>标签，为你的网页添加标题<br>&emsp;&emsp;<code>&lt;strong&gt;</code>和<code>&lt;em&gt;</code>标签加入强调语气;<code>&lt;b&gt;</code>标签只是物理意义的加粗，在搜索引擎来讲没有强调作用<br>&emsp;&emsp;<code>&lt;span&gt;</code>标签是没有语义的,他的作用是为文字设置单独样式<br>&emsp;&emsp;<code>&lt;q&gt;</code>标签，短文本引用<br>&emsp;&emsp;<code>&lt;blockquote&gt;</code>标签，长文本引用<br>&emsp;&emsp;<code>&lt;br&gt;</code>标签分行显示文本<br>&emsp;&emsp;<code>&amp;nbsp;</code>为你的网页中添加一些空格<br>&emsp;&emsp;<code>&lt;hr /&gt;</code>添加水平横线<br>&emsp;&emsp;<code>&lt;address&gt;</code>标签，为网页加入地址信息<br>&emsp;&emsp;<code>&lt;code&gt;</code>标签,加入一行代码<br>&emsp;&emsp;<code>&lt;pre&gt;</code>标签为你的网页加入大段代码<br>&emsp;&emsp;<code>&lt;ul&gt;</code>标签，添加新闻信息列表<br>&emsp;&emsp;<code>&lt;ol&gt;</code>标签，添加图书销售排行榜<br>&emsp;&emsp;<code>&lt;div&gt;</code>标签，相当于一个独立的逻辑空间，类似容器，为网页划分独立的版块；给div命名，使逻辑更加清晰<br>&emsp;&emsp;<code>&lt;table&gt;</code>标签，认识网页上的表格<br>&emsp;&emsp;<code>&lt;caption&gt;</code>标签，为表格添加标题和摘要<br>&emsp;&emsp;<code>&lt;a&gt;</code>标签，链接到另一个页面<br>&emsp;&emsp;<code>&lt;img&gt;</code>标签，为网页插入图片<br>&emsp;&emsp;<code>&lt;form&gt;&lt;action&gt;&lt;method&gt;&lt;input&gt;</code>表单标签，与用户交互<br>&emsp;&emsp;<code>&lt;textarea&gt;</code>标签，支持多行文本输入<br>&emsp;&emsp;<code>&lt;select&gt;</code>标签，下拉列表框进行多选<br>&emsp;&emsp;<code>&lt;input type=&quot;reset&quot; value=&quot;重置&quot;  /&gt;</code>，重置表单信息<br>&emsp;&emsp;而一些新的html5语义标签如此链接：<a href="http://www.jianshu.com/p/bf343c767cf7" target="_blank" rel="external">http://www.jianshu.com/p/bf343c767cf7</a>以及<a href="https://www.bbsmax.com/A/rV57KQOL5P/" target="_blank" rel="external">https://www.bbsmax.com/A/rV57KQOL5P/</a><br>&emsp;&emsp;既然知道Html语义化的重要性，那么写HTML代码时应注意什么？<br>&emsp;&emsp;尽可能少的使用无语义的标签div和span；<br>&emsp;&emsp;在语义不明显时，既可以使用div或者p时，尽量用p, 因为p在默认情况下有上下间距，对兼容特殊终端有利；<br>&emsp;&emsp;不要使用纯样式标签，如：b、font、u等，改用css设置。<br>&emsp;&emsp;需要强调的文本，可以包含在strong或者em标签中（浏览器预设样式，能用CSS指定就不用他们），strong默认样式是加粗（不要用b），em是斜体（不用i）；<br>&emsp;&emsp;使用表格时，标题要用caption，表头用thead，主体部分用tbody包围，尾部用tfoot包围。<br>&emsp;&emsp;表头和一般单元格要区分开，表头用th，单元格用td；<br>&emsp;&emsp;表单域要用fieldset标签包起来，并用legend标签说明表单的用途；<br>&emsp;&emsp;每个input标签对应的说明文本都需要使用label标签，并且通过为input设置id属性，在lable标签中设置for=someld来让说明文本和相对应的input关联起来<br>&emsp;&emsp;参考文章：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">&amp;emsp;&amp;emsp;&lt;http://justineo.github.io/slideshows/semantic-html/#/&gt;</div><div class="line">&amp;emsp;&amp;emsp;&lt;http://www.html5jscss.com/html5-semantics-section.html&gt;</div><div class="line">&amp;emsp;&amp;emsp;&lt;http://www.jianshu.com/p/bf343c767cf7&gt;</div><div class="line">&amp;emsp;&amp;emsp;&lt;https://www.bbsmax.com/A/rV57KQOL5P/&gt;</div><div class="line">&amp;emsp;&amp;emsp;&lt;http://blog.csdn.net/lihui130135/article/details/44748415&gt;</div></pre></td></tr></table></figure></p>
 
       
     </div>
@@ -430,9 +422,9 @@
       
         <div class="post-tags">
           
-            <a href="/tags/Hexo/" rel="tag"># Hexo</a>
+            <a href="/tags/Html5/" rel="tag"># Html5</a>
           
-            <a href="/tags/Nodejs/" rel="tag"># Nodejs</a>
+            <a href="/tags/语义化/" rel="tag"># 语义化</a>
           
         </div>
       
@@ -445,8 +437,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2017/06/08/xiaomi/" rel="next" title="<font color=#0099ff><strong>今天来聊聊小米</strong></font>">
-                <i class="fa fa-chevron-left"></i> <font color=#0099ff><strong>今天来聊聊小米</strong></font>
+              <a href="/2017/06/21/stack2017/" rel="next" title="<font color=#FFB270><strong>STACK OVERFLOW 2017 开发者调查报告（程序员必看）</strong></font>">
+                <i class="fa fa-chevron-left"></i> <font color=#FFB270><strong>STACK OVERFLOW 2017 开发者调查报告（程序员必看）</strong></font>
               </a>
             
           </div>
@@ -455,8 +447,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2017/06/21/stack2017/" rel="prev" title="<font color=#FFB270><strong>STACK OVERFLOW 2017 开发者调查报告（程序员必看）</strong></font>">
-                <font color=#FFB270><strong>STACK OVERFLOW 2017 开发者调查报告（程序员必看）</strong></font> <i class="fa fa-chevron-right"></i>
+              <a href="/2096/06/04/myBlog/" rel="prev" title="<font color=#0099ff><strong>Blog  |  我【置顶博文】</strong></font>">
+                <font color=#0099ff><strong>Blog  |  我【置顶博文】</strong></font> <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
